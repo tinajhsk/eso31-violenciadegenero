@@ -1,0 +1,46 @@
+*{
+	background: #9D2FCF ;
+}
+/*color de fondo*/
+h1{
+	font-size: 50px;
+	text-align: center;
+	font-family: Pacifico;
+	color: white;
+}
+/*tamaño de la letra principal:3*/
+h2{
+	color: white;
+	font-size: 40
+}
+div{
+	border-style:dashed;
+	border-color:white;
+}
+/*estilo aplicado a links uwu*/
+a:link{
+	color: white;
+	text-decoration: yellow;
+}
+/*mucho texto*/
+a:hover{
+	color: white;
+	background: none;
+}
+
+footer{
+	text-align: center;
+}
+
+nav{
+	text-align: center;
+}
+
+body{
+	text-align: center;
+	font-family: OpenSans;
+    margin: 0;
+    background: url(images/wall.jpg);
+    background-size: cover;
+}
+
